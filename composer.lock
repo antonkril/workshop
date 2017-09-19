@@ -12,7 +12,7 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/antonkril/workshop-sample.git",
-                "reference": "93702065594416f28f7d292e796c6ebca048f53f"
+                "reference": "677b21eee807a7b08ba33dbc88f00377d2072004"
             },
             "type": "magento2-module",
             "autoload": {
@@ -23,7 +23,7 @@
                     "Antonkril\\WorkshopSample\\": ""
                 }
             },
-            "time": "2017-09-19T01:09:22+00:00"
+            "time": "2017-09-19T01:34:33+00:00"
         },
         {
             "name": "braintree/braintree_php",
